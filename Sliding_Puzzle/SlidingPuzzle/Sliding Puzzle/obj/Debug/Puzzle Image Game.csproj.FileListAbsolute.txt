@@ -1,0 +1,9 @@
+C:\Users\Aleksandar\source\repos\Puzzle Image Game\Puzzle Image Game\bin\Debug\Puzzle Image Game.exe.config
+C:\Users\Aleksandar\source\repos\Puzzle Image Game\Puzzle Image Game\bin\Debug\Puzzle Image Game.exe
+C:\Users\Aleksandar\source\repos\Puzzle Image Game\Puzzle Image Game\bin\Debug\Puzzle Image Game.pdb
+C:\Users\Aleksandar\source\repos\Puzzle Image Game\Puzzle Image Game\obj\Debug\Puzzle Image Game.csprojAssemblyReference.cache
+C:\Users\Aleksandar\source\repos\Puzzle Image Game\Puzzle Image Game\obj\Debug\Puzzle_Image_Game.Form1.resources
+C:\Users\Aleksandar\source\repos\Puzzle Image Game\Puzzle Image Game\obj\Debug\Puzzle_Image_Game.Properties.Resources.resources
+C:\Users\Aleksandar\source\repos\Puzzle Image Game\Puzzle Image Game\obj\Debug\Puzzle Image Game.csproj.GenerateResource.cache
+C:\Users\Aleksandar\source\repos\Puzzle Image Game\Puzzle Image Game\obj\Debug\Puzzle Image Game.exe
+C:\Users\Aleksandar\source\repos\Puzzle Image Game\Puzzle Image Game\obj\Debug\Puzzle Image Game.pdb

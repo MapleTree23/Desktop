@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puzzle Image Game", "Puzzle Image Game\Puzzle Image Game.csproj", "{39B34C0C-FCCA-49FD-8495-7E7506EFC746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39B34C0C-FCCA-49FD-8495-7E7506EFC746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B34C0C-FCCA-49FD-8495-7E7506EFC746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B34C0C-FCCA-49FD-8495-7E7506EFC746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B34C0C-FCCA-49FD-8495-7E7506EFC746}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {204ED9AC-731B-46C3-A196-3DC46B72F731}
+	EndGlobalSection
+EndGlobal
